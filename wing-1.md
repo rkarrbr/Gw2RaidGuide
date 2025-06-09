@@ -53,5 +53,23 @@ Green AoE - during phase outheal, splitface always take
 <ins>**General mechanics**</ins>
 ```
 - Flame Wall: one lap counter clockwise - instakill
-- Grenades
+- Throw Grenades - the special action key, will happen at every [xx:55] and [xx:25]
+> "Any Bandit Sappers that spawn on the platform will target the player furthest to the west in their range on the platform with a Sapper Bomb. This will give the player a special action key and a green circle around them."
+- Proximity bombs -> closest to Sabetha gets it
+- Turrets - kill them, they do AoE over whole platform
+- Ticking bombs -> go close, press interaction key [F]
 ```
+<ins>Special Role - Kite</ins>
+Kite the meatball attack to west/southwest, blink/mobility is awesome here
+
+<ins>special Role - Canons 1/3 and 2/4</ins>
+Every 30 second a canon spawn 1/3 at [xx:30] and 2/4 at [xx:00].
+Move out if safe (flame wall timing will be learnt doing this often).
+
+Extra for comm and the wannabe canon experts
+Pattern is:
+S W N E (a clock)
+S N W E (a "4")
+
+This means 1/3 goes: S N S W S N S W
+and 2/4 goes: W E N E W E N E
