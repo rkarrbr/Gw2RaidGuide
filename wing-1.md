@@ -63,15 +63,15 @@ Green AoE - during phase outheal, splitface always take
 Kite the meatball attack to west/southwest, blink/mobility is awesome here
 
 <ins>special Role - Canons 1/3 and 2/4</ins>
-Every 30 second a canon spawn 1/3 at [xx:30] and 2/4 at [xx:00].
+Every 30 second a canon spawn `1/3` at `[xx:30]` and `2/4` at `[xx:00]`.
 Move out if safe (flame wall timing will be learnt doing this often).
 
-Extra for comm and the wannabe canon experts
+__Extra__ for comm and the wannabe canon experts
 Pattern is:<br>
-S W N E (a clock)<br>
-S N W E (a "4")<br>
+`S W N E` (a clock)<br>
+`S N W E` (a "4")<br>
 
-This means 1/3 goes: <br>
-S N S W S N S W<br>
-and 2/4 goes: <br>
-W E N E W E N E
+`1/3` goes: <br>
+`S N S W S N S W`<br>
+`2/4` goes: <br>
+`W E N E W E N E`
