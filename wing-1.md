@@ -1,24 +1,24 @@
 # Vale Guardian
-Squad setup
+<ins>**Squad setup**</ins>
 ```
 2x boon heal | 2x boon dps | 6x dps (2 cdps)
 ```
 
-### 🔴 Red guardian
+🔴 <ins>**Red guardian**</ins>
 ```
 condi dps
 Seekers - utils: push/pull away from group
 ```
-### 🟢 Green guardian
+🟢 <ins>**Green guardian**</ins>
 ```
 Portals - sound and visible queue, move/dodge out
 ```
-### 🔵 Blue guardian
+🔵 <ins>**Blue guardian**</ins>
 ```
 boonrip
 Green AoE - during phase outheal, splitface always take
 ```
-### General mechanics
+<ins>**General mechanics**</ins>
 ```
 - Movement: 100-66 and 66-33 at split between red and blue section. 33-0 rotate with "safe".
 - No pulls to group, red seekers have nasty AoE.
@@ -28,11 +28,11 @@ Green AoE - during phase outheal, splitface always take
 ```
 
 # Gorseval
-Squad setup
+<ins>**Squad setup**</ins>
 ```
 2x boon heal | 2x boon dps | 6x dps 
 ```
-### General mechanics
+<ins>**General mechanics**</ins>
 ```
 - Dps Golem
 - Bring stability, knockback from the "hand over head" attack.
@@ -44,13 +44,13 @@ Squad setup
 ```
 
 # Sabetha
-Squad setup
+<ins>**Squad setup**</ins>
 ```
 2x boon heal | 2x boon dps | 6x dps 
 - Kite
 - 1/3 and 2/4 canons
 ```
-### General mechanics
+<ins>**General mechanics**</ins>
 ```
 - Flame Wall: one lap counter clockwise - instakill
 - Grenades
