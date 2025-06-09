@@ -67,9 +67,11 @@ Every 30 second a canon spawn 1/3 at [xx:30] and 2/4 at [xx:00].
 Move out if safe (flame wall timing will be learnt doing this often).
 
 Extra for comm and the wannabe canon experts
-Pattern is:
-S W N E (a clock)
-S N W E (a "4")
+Pattern is:<br>
+S W N E (a clock)<br>
+S N W E (a "4")<br>
 
-This means 1/3 goes: S N S W S N S W
-and 2/4 goes: W E N E W E N E
+This means 1/3 goes: <br>
+S N S W S N S W<br>
+and 2/4 goes: <br>
+W E N E W E N E
