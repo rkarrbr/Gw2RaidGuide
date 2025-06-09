@@ -43,11 +43,15 @@ Squad setup
 - After 33% split: "Eggs" - small AoE under each player - move/dodge away or get stuck (dps loss). Happens 2 times this phase
 ```
 
-##
 # Sabetha
 Squad setup
 ```
 2x boon heal | 2x boon dps | 6x dps 
 - Kite
 - 1/3 and 2/4 canons
+```
+### General mechanics
+```
+- Flame Wall: one lap counter clockwise - instakill
+- Grenades
 ```
