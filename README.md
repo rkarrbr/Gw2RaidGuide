@@ -14,3 +14,7 @@
 > <ins>Personal Target</ins> (only visible to you) <br>
 > **Bind**: [Options] > [Control Options] > [Targeting] > (4 from top) [Set Personal Target] <br>
 > _Example_: [Alt + T]
+
+> [!NOTE]
+> <ins>Max squad message size</ins><br>
+> 199 characters work, the 200:th is not in.
