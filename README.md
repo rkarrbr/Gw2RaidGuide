@@ -18,3 +18,14 @@
 > [!NOTE]
 > <ins>Max squad message size</ins><br>
 > 199 characters work, the 200:th is not in.
+
+
+# General stats for different roles
+
+## Tank
+Good stats:
+Harrier, Minstrel, Givers, or Cleric
+- __Harrier's__ (PoF) is a prefix for equipment which focuses on <ins>Power</ins>, with additional <ins>Healing Power</ins> and  <ins>Concentration</ins>.
+- __Minstrel's__ (HoT) is a prefix for equipment which focuses on <ins>Toughness</ins> and <ins>Healing Power</ins>, with additional <ins>Vitality</ins> and <ins>Concentration</ins>.
+- __Giver's__ (Core) is a prefix for equipment which focuses on <ins>Toughness</ins>, with additional <ins>Healing Power</ins> and  <ins>Concentration</ins>.
+- __Cleric's__ (Core) is a prefix for equipment which focuses on <ins>Healing Power</ins>, with additional <ins>Power</ins> and <ins>Toughness</ins>.
